@@ -1,2 +1,2 @@
 # Olymp
-My olimpiad programming solutions
+My olimpiad tasks' solutions
