@@ -1,4 +1,4 @@
 # Производные от .cpp
 *.exe
 *.o
-/.vscode
+.vscode
